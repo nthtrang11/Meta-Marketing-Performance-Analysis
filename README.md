@@ -1,5 +1,7 @@
 # 📊 Meta Ads Performance Analysis Dashboard
 ## 1. Project Overview
+- Link dashboard: https://app.powerbi.com/reportEmbed?reportId=470f6f77-9b3f-40c9-83bb-18aae7e94688&autoAuth=true&ctid=2a141a9b-4ef4-4094-a1e5-59bf690777c6&actionBarEnabled=true
+- Link dataset: https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance
 
 This project analyzes the performance of paid advertising campaigns on Facebook and Instagram (Meta Ads).
 The dashboard provides insights into reach, engagement, conversions, and budget efficiency, helping marketing teams evaluate campaign effectiveness and optimize advertising strategies.
